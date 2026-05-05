@@ -1,4 +1,3 @@
-<img width="1590" height="1060" alt="Lean Canvas" src="https://github.com/user-attachments/assets/a4a4ff23-a2cb-4cd0-9c66-aaa3913e5c19" />
 # -IT_Project_2026_Ushakova
  IT_Project_2026_Ushakova
  
