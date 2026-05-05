@@ -173,7 +173,7 @@
 <img width="1134" height="1161" alt="Screenshot 2026-05-05 130514" src="https://github.com/user-attachments/assets/7379c980-6a3f-4066-a918-dac92c7a0f4c" />
 
 
-##Стек технологий для MVP
+## Стек технологий для MVP
 **Backend**: Python + FastAPI (асинхронный, быстрая разработка, легко подключать гео-запросы и платежи).
 
 **База данных**: PostgreSQL + расширение PostGIS (поиск залов рядом с пользователем по геолокации).
